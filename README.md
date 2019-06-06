@@ -1,3 +1,7 @@
+#How to contriburte
+
+#Some other shit
+
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
