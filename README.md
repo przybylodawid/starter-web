@@ -2,9 +2,10 @@
 This one ill commit
 
 #Some other shit
-
+This one ill just gitadd
 # Starter Web Repo
 
+THIS ONE I WONT GIT ADD
 This repository is for showing how Git and GitHub work
 
 ## Purpose
