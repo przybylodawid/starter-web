@@ -1,5 +1,6 @@
 #How to contriburte
 This one ill commit
+Adding line for REBASE
 
 #Some other shit
 This one ill just gitadd
